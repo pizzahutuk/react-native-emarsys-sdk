@@ -1,18 +1,18 @@
 
 # react-native-emarsys-wrapper
 
-[![REUSE status](https://api.reuse.software/badge/github.com/emartech/react-native-emarsys-sdk)](https://api.reuse.software/info/github.com/emartech/react-native-emarsys-sdk)
+[![REUSE status](https://api.reuse.software/badge/github.com/pizzahutuk/react-native-emarsys-sdk)](https://api.reuse.software/info/github.com/pizzahutuk/react-native-emarsys-sdk)
 
 React Native wrapper for Emarsys SDK.
 
-For further information about how to use the wrapper please visit our [Documentation](https://github.com/emartech/react-native-emarsys-sdk/wiki "Wiki").
+For further information about how to use the wrapper please visit our [Documentation](https://github.com/pizzahutuk/react-native-emarsys-sdk/wiki "Wiki").
 
 ## Sample app
-We created a sample application to help in the integration and give an example. Find instructions for the build process [here](https://github.com/emartech/react-native-emarsys-sdk/tree/master/sample "Sample app").
+We created a sample application to help in the integration and give an example. Find instructions for the build process [here](https://github.com/pizzahutuk/react-native-emarsys-sdk/tree/master/sample "Sample app").
 
 ## Setup
 
-`$ npm install "git+ssh://git@github.com/emartech/react-native-emarsys-sdk.git#1.19.0" --save`
+`$ npm install "git+ssh://git@github.com/pizzahutuk/react-native-emarsys-sdk.git#1.19.0" --save`
 
 ## Requirements
 
@@ -26,8 +26,8 @@ Should you have any suggestions or bug reports, please raise an [Emarsys support
 
 ## Code of Conduct
 
-Please see our [Code of Conduct](https://github.com/emartech/.github/blob/main/CODE_OF_CONDUCT.md) for detail.
+Please see our [Code of Conduct](https://github.com/pizzahutuk/.github/blob/main/CODE_OF_CONDUCT.md) for detail.
 
 ## Licensing
 
-Please see our [LICENSE](https://github.com/emartech/react-native-emarsys-sdk/blob/master/LICENSE) for copyright and license information.
+Please see our [LICENSE](https://github.com/pizzahutuk/react-native-emarsys-sdk/blob/master/LICENSE) for copyright and license information.
